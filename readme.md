@@ -21,3 +21,4 @@ Git es una herramienta genial, aquí se describen algunos comandos básicos
 - touch archivo : crea un archivo
 - ls : lista los  elementos dentro de la carpeta actual
 - ls -la: lista los elementos dentro de la carpeta actual de manera detallada con la opcion a, lista los elementos ocultos
+ - hola mundo 
